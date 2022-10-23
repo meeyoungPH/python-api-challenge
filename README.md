@@ -30,7 +30,7 @@ This project demostrates use of APIs in two examples:
 * 608 of 653 cities had current weather data available to be plotted as shown below
 * Max Temperature vs Latitude - There is a strong correlation (r-values: -0.87, 0.74) between city latitude and the max temperature in both hemispheres. The max temperature steadily decreases (negative correlation) going from latitudes of 0 to 90 in the Northern Hemisphere (slope = -0.85), while it increases (positive correlation) going from a latitude of -90 to 0 in the Southern Hemisphere (0.59).
 
-![temp_scatterplot](WeatherPy\output_data\lat_max_temp.png)
+![temp_scatterplot](https://github.com/meeyoungPH/python-api-challenge/blob/main/WeatherPy/output_data/lat_max_temp.png)
 ![temp_north](WeatherPy\output_data\north_lat_max_temp.png)
 ![temp_south](WeatherPy\output_data\south_lat_max_temp.png)
 
